@@ -7,3 +7,7 @@ Volume 383,
 ISSN 0263-8223,
 https://doi.org/10.1016/j.compstruct.2026.120154.
 (https://www.sciencedirect.com/science/article/pii/S0263822326001194)
+
+
+Usage instructions - 
+Modify the subroutine uel according to the number of layers in the composite. Change the number of layers and number of elements in the layer according to the problem at hand.
